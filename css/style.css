@@ -49,3 +49,8 @@ span:hover{
 
 
 }
+
+.dropdown-item:hover{
+
+    cursor: pointer;
+}
