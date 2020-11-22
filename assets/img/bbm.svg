@@ -12,7 +12,7 @@
    viewBox="0 0 400 200"
    version="1.1"
    id="SVGRoot"
-   sodipodi:docname="eb.svg"
+   sodipodi:docname="bbm.svg"
    inkscape:version="1.0.1 (0767f8302a, 2020-10-17)">
   <defs
      id="defs3785">
@@ -2836,9 +2836,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.1422019"
-     inkscape:cx="193.06953"
-     inkscape:cy="118.77823"
+     inkscape:zoom="1.6882027"
+     inkscape:cx="195.27676"
+     inkscape:cy="156.46701"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -2876,7 +2876,7 @@
        width="7.1919999"
        height="358.31699"
        id="rect103"
-       style="fill:#ff5555;fill-opacity:1;filter:url(#filter6208-97)"
+       style="fill:#c8beb7;fill-opacity:1;filter:url(#filter6208-97)"
        transform="matrix(0.39518289,0,0,0.39518289,92.528498,-58.339907)" />
     <rect
        x="248.922"
@@ -2981,7 +2981,7 @@
        ry="20.625"
        id="ellipse143"
        style="filter:url(#filter6076-4-6)"
-       transform="matrix(0.39518289,0,0,0.39518289,92.5285,1.693993)" />
+       transform="matrix(0.39518289,0,0,0.39518289,92.5285,-26.306007)" />
     <ellipse
        fill="#ff5555"
        cx="253.95401"
@@ -2990,43 +2990,24 @@
        ry="20.625"
        id="ellipse471"
        style="filter:url(#filter6076-4-6)"
-       transform="matrix(0.39518289,0,0,0.39518289,90.5285,-31.886739)" />
+       transform="matrix(0.39518289,0,0,0.39518289,92.5285,-25.886739)" />
+    <rect
+       x="148.23199"
+       y="236.67999"
+       fill="#ff5555"
+       width="7.1919999"
+       height="358.31699"
+       id="rect732"
+       style="fill:#ff5555;fill-opacity:1;filter:url(#filter6208-97)"
+       transform="matrix(0,0.47417532,-0.34473098,0,345.35241,-20.871376)" />
     <ellipse
        fill="#ff5555"
        cx="253.95401"
        cy="350.36301"
        rx="19.285999"
        ry="20.625"
-       id="ellipse1390"
+       id="ellipse2733"
        style="filter:url(#filter6076-4-6)"
-       transform="matrix(0.39518289,0,0,0.39518289,130.5285,-61.886739)" />
-    <ellipse
-       fill="#ff5555"
-       cx="253.95401"
-       cy="350.36301"
-       rx="19.285999"
-       ry="20.625"
-       id="ellipse1410"
-       style="filter:url(#filter6076-4-6)"
-       transform="matrix(0.39518289,0,0,0.39518289,112.5285,-89.886739)" />
-    <ellipse
-       fill="#ff5555"
-       cx="253.95401"
-       cy="350.36301"
-       rx="19.285999"
-       ry="20.625"
-       id="ellipse1412"
-       style="filter:url(#filter6076-4-6)"
-       transform="matrix(0.39518289,0,0,0.39518289,152.5285,-89.886739)" />
-    <text
-       xml:space="preserve"
-       style="font-size:26px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;fill:#ff5555;fill-opacity:1"
-       x="110.90849"
-       y="149.39833"
-       id="text1275"><tspan
-         sodipodi:role="line"
-         id="tspan1273"
-         x="110.90849"
-         y="149.39833">6°</tspan></text>
+       transform="matrix(0.39518289,0,0,0.39518289,110.5285,-55.886739)" />
   </g>
 </svg>

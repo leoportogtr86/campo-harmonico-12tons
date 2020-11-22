@@ -89,6 +89,22 @@ eb.onclick = function () {
     titulo.innerHTML = ' Campo Harmônico - Eb Maior'
     campo.innerHTML = 'Eb Fm Gm Ab Bb Cm D°'
 
+    grau1.src = './assets/img/eb.svg'
+    grau2.src = './assets/img/fm.svg'
+    grau3.src = './assets/img/gm.svg'
+    grau4.src = './assets/img/ab.svg'
+    grau5.src = './assets/img/bb.svg'
+    grau6.src = './assets/img/cm.svg'
+    grau7.src = './assets/img/ddim.svg'
+
+    cifra1.innerHTML = 'Eb'
+    cifra2.innerHTML = 'Fm'
+    cifra3.innerHTML = 'Gm'
+    cifra4.innerHTML = 'Ab'
+    cifra5.innerHTML = 'Bb'
+    cifra6.innerHTML = 'Cm'
+    cifra7.innerHTML = 'D°'
+
 }
 
 
@@ -191,6 +207,22 @@ ab.onclick = function () {
 
     titulo.innerHTML = ' Campo Harmônico - Ab Maior'
     campo.innerHTML = 'Ab Bbm Cm Db Eb Fm G°'
+
+    grau1.src = './assets/img/ab.svg'
+    grau2.src = './assets/img/bbm.svg'
+    grau3.src = './assets/img/cm.svg'
+    grau4.src = './assets/img/db.svg'
+    grau5.src = './assets/img/eb.svg'
+    grau6.src = './assets/img/fm.svg'
+    grau7.src = './assets/img/gdim.svg'
+
+    cifra1.innerHTML = 'Ab'
+    cifra2.innerHTML = 'Bbm'
+    cifra3.innerHTML = 'Cm'
+    cifra4.innerHTML = 'Db'
+    cifra5.innerHTML = 'Eb'
+    cifra6.innerHTML = 'Fm'
+    cifra7.innerHTML = 'G°'
 
 }
 
