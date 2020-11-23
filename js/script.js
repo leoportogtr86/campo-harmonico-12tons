@@ -57,6 +57,22 @@ db.onclick = function () {
     titulo.innerHTML = ' Campo Harmônico - Db Maior'
     campo.innerHTML = 'Db Ebm Fm Gb Ab Bbm C°'
 
+    grau1.src = './assets/img/db.svg'
+    grau2.src = './assets/img/ebm.svg'
+    grau3.src = './assets/img/fm.svg'
+    grau4.src = './assets/img/gb.svg'
+    grau5.src = './assets/img/ab.svg'
+    grau6.src = './assets/img/bbm.svg'
+    grau7.src = './assets/img/cdim.svg'
+
+    cifra1.innerHTML = 'Db'
+    cifra2.innerHTML = 'Ebm'
+    cifra3.innerHTML = 'Fm'
+    cifra4.innerHTML = 'Gb'
+    cifra5.innerHTML = 'Ab'
+    cifra6.innerHTML = 'Bbm'
+    cifra7.innerHTML = 'C°'
+
 }
 
 
